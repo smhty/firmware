@@ -1,5 +1,5 @@
 #!/bin/bash
-pip3 install -r requirements.txt --upgrade
+pip3 install -r requirements.txt
 python3 ENC.py
 python3 Unlock_Flash.py
 python3 Firmware_Upgrade.py
