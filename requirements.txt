@@ -1,3 +1,0 @@
-pycrypto
-RPi.GPIO
-pyserial
